@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1668370046 source:/home7/mb969703/Desktop/tortue_BOUCHENGUOUR_ASNI/tortue_BOUCHENGUOUR_ASNI/tortue.cpp
+	<cstdio>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cmath>
+	<GL/freeglut.h>
+	<jpeglib.h>
+
